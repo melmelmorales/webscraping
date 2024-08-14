@@ -16,11 +16,11 @@ This project involves two primary tasks:
   
 This challenge is designed to enhance my proficiency in data collection, organization, analysis, and visualization, providing a valuable opportunity to refine and apply my skills in real-world scenarios.
 
-Atmospheric pressure is, on average, lowest in the sixth month and highest in the ninth.
+**Atmospheric pressure is, on average, lowest in the sixth month and highest in the ninth.**
 ![Pressure Graph](Starter_Code/Images/mars_average_pressure.png)
 
-On average, the third month has the coldest minimum temperature on Mars, and the eighth month is the warmest. But it is always very cold there in human terms!
+**On average, the third month has the coldest minimum temperature on Mars, and the eighth month is the warmest.**
 ![Temperature Graph](Starter_Code/Images/mars_average_temperature.png)
 
-The distance from peak to peak is roughly 1425-750, or 675 days. A year on Mars appears to be about 675 days from the plot. Internet search confirms that a Mars year is equivalent to 687 earth days.
+**The distance from peak to peak is roughly 1425-750, or 675 days. A year on Mars appears to be about 675 days from the plot. Internet search confirms that a Mars year is equivalent to 687 earth days.**
 ![Temperature Graph Over Time](Starter_Code/Images/mars_temp_over_time.png)
